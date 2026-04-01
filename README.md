@@ -48,8 +48,9 @@ Strong focus on system design, reliability, and cloud-native architecture.</p>
 **Cloud & DevOps** 
 - Microsoft Azure
   
-<h2>⚡️ Contact With Me</h2>
+<h2>⚡️Contact With Me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/salahuddinahmed/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/13440669/salahuddin-ahmed" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
 <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+<h2>📈 GitHub Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sumuongit&theme=dark" alt="GitHub Streak" /></a>
