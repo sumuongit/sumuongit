@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Salahuddin</h1>
 <p>A passionate software engineer from Bangladesh with 15+ years of experience building scalable backend systems, microservices, and enterprise applications. 
-Strong focus on system design, reliability, and cloud-native architecture.</p>
+Strong focus on system design, reliability, and architecture.</p>
 <h2>🧠 About Me</h2>
 <ul>
 <li>🔭 Currently focused on backend architecture, microservices, and distributed systems</li>
 <li>⚙️ Experienced in Node.js and .NET ecosystems</li>
 <li>☁️ Working with Enterprise, Azure, and cloud-based solutions</li>
-<li>📊 Interested in observability, system reliability, and data-driven systems</li>
+<li>📊 Interested in system security, integration, and data-driven systems</li>
 <li>🌍 Open to remote/global opportunities</li>
 </ul>
 <h2>🚀 Languages and Tech Stack I Use</h2>
