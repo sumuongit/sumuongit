@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Salahuddin Ahmed</h1>
+<h1>Hi 👋, I'm Salahuddin</h1>
 <p>A passionate software engineer from Bangladesh with 15+ years of experience building scalable backend systems, microservices, and enterprise applications. 
 Strong focus on system design, reliability, and cloud-native architecture.</p>
 <h2>🧠 About Me</h2>
