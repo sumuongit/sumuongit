@@ -1,38 +1,47 @@
-<h1>Hi 👋, I'm Salahuddin</h1>
-<p>A passionate software engineer from Bangladesh with 15+ years of experience building scalable backend systems, microservices, and enterprise applications. 
-Strong focus on system design, reliability, and architecture.</p>
-<h2>🧠 About Me</h2>
-<ul>
-<li>🔭 Currently focused on backend architecture, microservices, and distributed systems</li>
-<li>⚙️ Experienced in Node.js and .NET ecosystems</li>
-<li>☁️ Working with Enterprise, Azure, and cloud-based solutions</li>
-<li>📊 Interested in system security, integration, and data-driven systems</li>
-<li>🌍 Open to remote/global opportunities</li>
-</ul>
-<h2>🚀 Languages and Tech Stack I Use</h2>
+# Hi 👋, I'm Salahuddin
 
-**Backend & Languages** 
-- Node.js (TypeScript, Express), C#, .NET
+Senior Software Engineer with 15+ years of experience building backend systems, enterprise applications, REST APIs, and database-driven solutions. My primary expertise is in **.NET/C#**, complemented by hands-on experience in **Node.js backend development** and modern full-stack technologies.
 
-**Frontend** 
-- React, Vue.js, Angular
+## 🧠 About Me
 
-**Databases** 
-- MongoDB, MySQL, MS SQL Server, PostgreSQL
+- 💻 Experienced in .NET, ASP.NET Core, C#, and Node.js ecosystems
+- 🏗️ Interested in backend architecture, scalable systems, and microservices
+- ☁️ Experienced with enterprise applications, Azure services, and system integration
+- 🔐 Interested in application security, authentication, and reliable data processing
+- 🤝 Value clean code, maintainable architecture, problem-solving, and knowledge sharing
 
-**Caching & Messaging** 
+## 🚀 Languages & Technologies
+
+**Backend & Programming**
+- C#, .NET, ASP.NET Core, Web API
+- Node.js, Express.js, TypeScript, JavaScript
+
+**Frontend**
+- React, Angular, Vue.js
+
+**Databases**
+- Microsoft SQL Server, PostgreSQL, MongoDB, MySQL
+
+**Caching & Background Processing**
 - Redis, BullMQ
-  
-**Architecture** 
-- Microservices, REST APIs
 
-**Security** 
-- JWT
+**Architecture & Integration**
+- REST APIs, Microservices, Enterprise Application Integration
+- SOLID Principles, CQRS
 
-**Cloud & DevOps** 
-- Microsoft Azure, Docker, CI/CD, Git
-  
-<h2>⚡️Contact With Me</h2>
+**Security**
+- JWT, OAuth, Authentication & Authorization
+
+**Cloud & DevOps**
+- Microsoft Azure, Azure Functions, Azure Blob Storage
+- Git, CI/CD, Docker
+
+## 🎯 Professional Interests
+
+Backend Engineering | Software Architecture | Distributed Systems | Enterprise Application Development | API Design | Database Optimization
+
+## 📫 Connect With Me
+
 <p><a target="_blank" href="https://www.linkedin.com/in/salahuddinahmed/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/13440669/salahuddin-ahmed" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
 <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
