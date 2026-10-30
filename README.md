@@ -1,6 +1,6 @@
 # Hi 👋, I'm Salahuddin
 
-Senior Software Engineer with 15+ years of experience building backend systems, enterprise applications, REST APIs, and database-driven solutions. My primary expertise is in **.NET/C#**, complemented by hands-on experience in **Node.js backend development** and modern full-stack technologies.
+Software Engineer with 15+ years of experience building backend systems, enterprise applications, REST APIs, and database-driven solutions. My primary expertise is in **.NET/C#**, complemented by hands-on experience in **Node.js backend development** and modern full-stack technologies.
 
 ## 🧠 About Me
 
